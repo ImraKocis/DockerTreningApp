@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DockerTreningApp/static/css/main.073c9b0a.css",
-    "main.js": "/DockerTreningApp/static/js/main.25689d04.js",
+    "main.js": "/DockerTreningApp/static/js/main.0c262f37.js",
     "static/js/787.cd7d7d7f.chunk.js": "/DockerTreningApp/static/js/787.cd7d7d7f.chunk.js",
     "static/media/logo.svg": "/DockerTreningApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/DockerTreningApp/index.html",
     "main.073c9b0a.css.map": "/DockerTreningApp/static/css/main.073c9b0a.css.map",
-    "main.25689d04.js.map": "/DockerTreningApp/static/js/main.25689d04.js.map",
+    "main.0c262f37.js.map": "/DockerTreningApp/static/js/main.0c262f37.js.map",
     "787.cd7d7d7f.chunk.js.map": "/DockerTreningApp/static/js/787.cd7d7d7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.25689d04.js"
+    "static/js/main.0c262f37.js"
   ]
 }
