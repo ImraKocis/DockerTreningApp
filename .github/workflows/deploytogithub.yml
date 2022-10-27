@@ -28,7 +28,7 @@ jobs:
 
       - name: Publush
         run: |
-          git config --global user.name 'ImraKocis'
+          git config --global user.name 'Imra Kocis'
           git config --global user.email 'imrakocis@gmail.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}    
           npm run deploy
